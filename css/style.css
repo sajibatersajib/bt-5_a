@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.images{
+    padding: 100px 0;
+}
+.container{
+    margin: 0 auto;
+    width: 960px;
+    overflow: hidden;
+}
+.img_item{
+    box-sizing: border-box;
+    float: left;
+    width: 25%;
+    padding: 0 3px 5px;
+}
+.img_item img{
+    width: 100%;
+}
+.banner{
+    height: 100vh;
+    background-color: red;
+}
+.banner h1{
+    font-size: 50px;
+}
